@@ -17,7 +17,7 @@ import java.util.List;
 @Slf4j
 public class AirQualityIndexController {
 
-	//注入资源
+	//注入必须资源
     @Resource
     private AirQualityIndexService airQualityIndexService;
     //注入必须的资源
