@@ -1,5 +1,9 @@
 package com.kgc.airquality.pojo;
 
+/**
+ * 工具类
+ *
+ */
 public class AirQualityIndex {
     private long id;
     private int districtId;
