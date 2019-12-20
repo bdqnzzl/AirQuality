@@ -18,6 +18,7 @@ import java.util.List;
 public class AirQualityIndexController {
 
 	//注入资源
+    //giaogiaogiaogiaogiao
     @Resource
     private AirQualityIndexService airQualityIndexService;
 
