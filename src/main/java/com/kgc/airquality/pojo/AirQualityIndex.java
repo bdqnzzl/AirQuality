@@ -9,7 +9,7 @@ public class AirQualityIndex {
     private int pm25;
     private String monitoringStation;
     private String lastModifyTime;
-
+    //突突突突突突拖拖拖拖
     public long getId() {
         return id;
     }
