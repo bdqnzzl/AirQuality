@@ -12,7 +12,9 @@ import java.util.List;
 @RestController
 @Slf4j
 public class DistrictController {
-
+    /**
+     * 注入
+     */
     @Resource
     private DistrictService districtService;
 
