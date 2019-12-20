@@ -20,7 +20,7 @@ public class AirQualityIndexController {
 	//注入资源
     @Resource
     private AirQualityIndexService airQualityIndexService;
-
+    //注入必须的资源
     @RequestMapping("/list")
     public List<AirQualityIndex> list(@RequestParam(name="disName",required = false) String disName){
         //log.trace(disName);
